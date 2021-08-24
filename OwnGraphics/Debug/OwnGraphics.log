@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(115,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(115,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(116,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(116,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(117,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(117,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(118,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(118,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(119,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(119,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(131,46): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(132,49): warning C4552: '+': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(134,45): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(135,49): warning C4552: '+': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(142,44): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(143,47): warning C4552: '+': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(145,43): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(146,47): warning C4552: '+': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(153,46): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(154,49): warning C4552: '+': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(156,45): warning C4552: '-': result of expression not used
+C:\Users\kalam\source\repos\OwnGraphics\OwnGraphics\main.cpp(157,49): warning C4552: '+': result of expression not used
+  OwnGraphics.vcxproj -> C:\Users\kalam\source\repos\OwnGraphics\Debug\OwnGraphics.exe
